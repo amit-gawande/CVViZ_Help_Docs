@@ -10,7 +10,7 @@
 ## Add Candidates
 **Click on the job you just created.** Now you shall see button to Add Candidates. **Below are different ways in which you can add resumes. Remember to add Tags** with every add resume option. Adding tags has many advantages while searching, ranking.
 
-1. Click and it shall open explorer. Here you can choose multiple resumes. Or you can **drag and drop** multiple resumes in one go.
+1. **Click on the Job Post -> Add Candidates -> File Upload** and it shall open explorer. Here you can choose multiple resumes. Or you can **drag and drop** multiple resumes in one go.
 2. **Import resumes from your emails.** Currently we have integrated with Google and Outlook email providers.
 3. **Find on web** - It’s an aggregated search where you can search either resumes or online profiles of candidates. 
 4. **Find on GitHub** - We have integrated with GitHub and you can see profiles of candidates on GitHub. 

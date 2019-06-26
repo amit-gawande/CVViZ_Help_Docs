@@ -50,7 +50,7 @@ You need to upload resumes after you create a job. The idea here is to keep the 
 
 # How to upload resumes for a job? / How to add candidates for a job?
 
-** Go to Jobs & Resumes -> Click on Job -> Add Candidates**
+**Go to Jobs & Resumes -> Click on Job -> Add Candidates**
 
 # What are mandatory skills?
 

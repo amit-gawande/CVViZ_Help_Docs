@@ -8,21 +8,21 @@ There are **two options** to upload candidates.
 
 You may be migrating from your old recruiting software to CVViZ or it may be the first time you are using an applicant tracking system like CVViZ. There is a possibility that you may have tons of resumes sitting on your machine or in your emails. Naturally, you do not want to upload these resumes against any new job as these are old resumes. In that case, you can go to the tab Candidate Database and upload your resumes there. 
 
-Candidate Database --> Add Candidates 
+**Candidate Database --> Add Candidates**
 
 **You should use tags as much as possible. Tags will help you in searching or ranking candidates.** 
 
 ## 2. Upload resumes against a job
 
-Go to Jobs & Resumes --> Click on Job --> Add Candidates
+**Go to Jobs & Resumes --> Click on Job --> Add Candidates**
 
 If you do not have a job created already then you will have to create a job position first. 
 
 # Difference between 'Jobs & Resumes' AND 'Candidate Database'
 
-Resumes uploaded against a particular job requisition or job position denotes that resumes are specifically sourced or uploaded for that job. These resumes are also visible in the candidate database.
+Resumes uploaded against a particular job requisition or job position denotes that resumes are specifically sourced or uploaded for that job. These resumes are also visible in the candidate database. 
 
-Candidate database shows all the resumes exist in your resume database.  It's a virtual representation of all the resumes you uploaded against various jobs. You can also upload your historical resumes here. 
+Candidate database shows all the resumes exist in your resume database.  It's a virtual representation of all the resumes you uploaded against various jobs. You can also upload your historical resumes here. **You should NOT use this option to upload fresh resumes.** For uploading fresh or new resumes, you should open the job posting first and then upload resumes against it.
 
 # How to delete a resume / How to delete a candidate
 

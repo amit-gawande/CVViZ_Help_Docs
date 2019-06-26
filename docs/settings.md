@@ -10,8 +10,12 @@ There are NO predefined user roles. Admin can create different roles based on va
 # Recruiters 
  It shows a list of existing recruiters. Admin can add a recruiter here. When admin adds a recruiter, a recruiter will receive an invite in an email.
 
+## How to add a recruiter / How to add new user
+
+**Before you can add a recruiter you need to add a role for the recruiter first.** If you have already created a role then you can use the existing role while adding a new recruiter. Once you have a role in place, you just need to click on **Add Recruiter** button. After that fill in the required information like name and email id of the new recruiter. **Recruiter/User will receive an invitation email on the given email id.** Recruiter or User will then need to fill up the Sign up form. Once done, the recruiter/user can start using the account.
+
 # Vendors 
- If your company works with recruitment vendors then you can add them here. Vendors will not have access to CVViZ. However, vendors can upload resumes directly into CVViZ when you share a job posting with them using CVViZ. Vendors will not need explicit access to upload resumes.
+ If your company works with recruitment vendors then you can add them here. Vendors will NOT have access **complete access** to CVViZ. However, vendors can upload resumes directly into CVViZ when you share a job posting with them using CVViZ. Vendors will not need explicit access to upload resumes.
 
 # Customers 
  If you are a staffing or recruitment firm then you can add your customers here. Adding customers will help you quickly share resumes with them. Also, you can generate various reports for your customers.

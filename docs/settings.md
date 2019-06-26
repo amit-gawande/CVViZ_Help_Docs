@@ -10,19 +10,19 @@ There are NO predefined user roles. Admin can create different roles based on va
 # Recruiters 
  It shows a list of existing recruiters. Admin can add a recruiter here. When admin adds a recruiter, a recruiter will receive an invite in an email.
 
-#Vendors 
+# Vendors 
  If your company works with recruitment vendors then you can add them here. Vendors will not have access to CVViZ. However, vendors can upload resumes directly into CVViZ when you share a job posting with them using CVViZ. Vendors will not need explicit access to upload resumes.
 
-#Customers 
+# Customers 
  If you are a staffing or recruitment firm then you can add your customers here. Adding customers will help you quickly share resumes with them. Also, you can generate various reports for your customers.
 
-#Departments  
+# Departments  
 If your organization has various departments then you can add those here. If you do so, you can display jobs on your career page with reference to various departments. This will also help you generate recruitment reports for all departments.
 
-#Hiring Manager 
+# Hiring Manager 
  If you add a hiring manager, you can track jobs, resumes shared, resumes shortlisted and generate various reports for hiring managers.
 
-#Screening Questions  
+# Screening Questions  
 These are pre-screening questions you can create. You can attach these prescreening questions to the job post. Candidates when applying for the job, they will have to answer these prescreening questions. You can create multiple types of screening questions like Yes - No answers, multiple choice, one line answers, etc.
 
 # Email Setting

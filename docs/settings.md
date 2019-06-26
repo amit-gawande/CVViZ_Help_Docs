@@ -1,9 +1,6 @@
 # Settings
 
 
-# Settings
-
-
 # General 
 It contains account information like the name of the company, address, contact info, etc.
 
@@ -35,3 +32,15 @@ You can also use your own email service to do the same activities. We have alrea
 
 # Email Templates
 We have provided you with some basic email templates. These templates are for sending Job postings, candidate screening, rejection email, etc. **You can modify these templates or you can create your own!**
+
+# Career Page
+**Settings -** Enable or Disable your career page. 
+**About Page -** Write about your company and other information that you may think is important for applying candidates.
+**Customization -** Choose colors. Logo. Background image. 
+**Integrate With Your Website -** Simple copy given link in your website’s career page section. And your career page is ready.
+
+# GDPR Toolkit
+GDPR Toolkit helps you achieve all activities related to GDPR compliance. You can do below things using this toolkit.
+**Take consent from a candidate** for sharing or using his/her data
+**Let a candidate make an enquiry** to review, rectify or delete data. Candidate can also **request to unsubscribe** from any communication.
+You can **export candidate data in required technical formats** like XML, JSON, CSV, etc.

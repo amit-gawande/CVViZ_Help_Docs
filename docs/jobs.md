@@ -43,3 +43,5 @@ To add new *job* go to [jobs](link):
 ## Add Candidates to Job
 
 ## Change Status
+
+## Clone Job

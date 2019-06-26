@@ -1,3 +1,0 @@
-# Resumes
-
-> An awesome project.

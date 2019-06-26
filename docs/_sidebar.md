@@ -1,6 +1,5 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/)
 * [Getting Started](start.md)
 * [Dashboard](dashboard.md)
 * [Jobs & Resumes](jobs.md)
